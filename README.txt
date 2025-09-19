@@ -1,6 +1,6 @@
 Lista de tarefas André Miura
 
-Este é um aplicativo simples de uma lista de tarefas(To-Do List) desenvolvido com HTML, CSS e JavaScript.
+Este é um programa simples de uma lista de tarefas(To-Do List) desenvolvido com HTML, CSS e JavaScript.
 
 Funcionalidades
 - Adicionar novas tarefas
